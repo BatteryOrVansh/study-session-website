@@ -3,7 +3,7 @@
 
 ### A minimal pomodoro website with Lo-Fi music for maximum focus.
 
-## as long as it is in it's initial phase it is hosted on GithubPages, with introduction of v2 it will be mooved to custom domain.
+## As long as it is in it's initial phase it is hosted on GithubPages, with introduction of v2 it will be moved to custom domain.
  https://iamharshit188.github.io/study-session-website/
 
 
